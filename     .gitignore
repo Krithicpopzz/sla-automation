@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+.streamlit/secrets.toml
+IMEI.xlsx
+Response.xlsx
+Resolution.xlsx
+Completed_IMEI.xlsx
